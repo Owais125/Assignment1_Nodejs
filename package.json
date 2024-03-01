@@ -1,0 +1,11 @@
+{
+  "name": "Assignmnet17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
